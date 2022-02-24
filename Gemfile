@@ -5,6 +5,8 @@ ruby '3.0.3'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem 'rack-cors'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.2', '>= 7.0.2.2'
 
